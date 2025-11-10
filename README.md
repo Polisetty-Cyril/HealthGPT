@@ -7,7 +7,7 @@
 
 > **Intelligent medical question answering with learned domain routing across 5 specialties**
 
-![System Demo](https://via.placeholder.com/800x400/4A90E2/ffffff?text=Add+Your+Demo+GIF+Here)
+<!-- ![System Demo](https://via.placeholder.com/800x400/4A90E2/ffffff?text=Add+Your+Demo+GIF+Here) -->
 
 ---
 
