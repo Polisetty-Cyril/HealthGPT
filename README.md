@@ -13,5 +13,5 @@
 
 ## 🎯 Overview
 
-An AI-powered medical QA system that **intelligently routes** queries to specialized medical experts using **Mixture of Experts (MoE)** architecture.
+This project implements an intelligent **Medical Question Answering System** that automatically routes user queries to specialized medical domain experts using a learned **Mixture of Experts (MoE)** architecture. Unlike traditional rule-based classification systems, our approach learns optimal routing patterns from data, achieving **98.10% routing accuracy** across 5 medical specialties.
 
