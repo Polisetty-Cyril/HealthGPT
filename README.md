@@ -1,9 +1,11 @@
 # Medical QA System with Mixture of Experts
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Accuracy](https://img.shields.io/badge/Accuracy-98.10%25-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen.svg)]()
+
+> **A production-grade medical question-answering system leveraging Mixture of Experts (MoE) routing for intelligent domain selection across 5 medical specialties with 98.10% routing accuracy**.
 
 > **Intelligent medical question answering with learned domain routing across 5 specialties**
 
